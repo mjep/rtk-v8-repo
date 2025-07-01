@@ -12,6 +12,6 @@ Steps to reproduce:
 5. Choose hosting
 6. Choose a project
 7. Choose default options
-8. `npm start`
+8. `npm build`
 9. `firebase serve`
 10. View site and see error in console: 
