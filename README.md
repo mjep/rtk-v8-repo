@@ -8,9 +8,10 @@ Steps to reproduce:
 1. Clone repo
 2. `npm install`
 3. Set up firebase hosting
-    3.1. `firebase init`
-    3.2. Choose hosting
-    3.3. Choose a project
-    3.4. Choose default options
-4. `npm start`
-5. `firebase serve`
+4. `firebase init`
+5. Choose hosting
+6. Choose a project
+7. Choose default options
+8. `npm start`
+9. `firebase serve`
+10. View site and see error in console: 
